@@ -644,6 +644,11 @@ h3.my-profession{
     height: 50px;
     padding: 0 50px;
 }
+.contact .container .center{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 80px;
+}
 @media (max-width:1199px){
     .section .container{
         padding-top: 70px;
